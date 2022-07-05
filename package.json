@@ -1,13 +1,13 @@
 {
-    "name": "rahikhan",
+    "name": "Mohammad Sakib Mahmood",
     "version": "2.2.2",
-    "author": "Rahi Khan <rahikhan360@gmail.com> (https://rahikhan.gtsb.io)",
-    "description": "A personal card for Rahi Khan",
+    "author": "Mohammad Sakib Mahmood<sakibmahmood485@gmail.com> (    ",
+    "description": "A personal card for the web", 
     "main": "card.js",
     "bin": "./card.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rahi-khan/npx_card.git"
+        "url": "https://github.com/sakibb019/sakib019.git"
     },
     "scripts": {
         "setup": "ncu -u && npm i",

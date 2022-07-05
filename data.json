@@ -1,11 +1,152 @@
 {
-    "user_name": "Rahi Khan",
-    "user_email": "rahikhan360@gmail.com",
-    "job_title": "Freelance Web Developer",
-    "npx_card_handle": "rahikhan",
-    "twitter_username": "rahikhan_dev",
-    "linkedin_username": "rahikhan",
-    "github_username": "rahi-khan",
-    "personal_site": "https://rahikhan.gtsb.io",
-    "resume_url": "https://resume.rahikhan.vercel.app/"
+    "user_name": "Mohammad Sakib Mahmood",
+    "user_email": "sakibmahmood485@gmail.com",
+    "job_title": "Frontend Web Developer",
+    "npx_card_handle": "sakib019",
+    "email_username": "sakibmahmood485",
+    "linkedin_username": "mdsakibmahmood",
+    "github_username": "sakib019",
+    "personal_site": "https://sakibmahmood019.netlify.app/",
+    "user_bio": "I am a Frontend Web Developer. I have a passion for creating beautiful and functional websites. I am currently working as a Frontend Web Developer at <a href=\"https://www.linkedin.com/in/mdsakibmahmood/\">LinkedIn</a>.",   "user_avatar": "https://avatars0.githubusercontent.com/u/639098?s=460&v=4",    
+    "user_location": "Dhaka, Bangladesh",
+    "user_website": "https://sakibmahmood019.netlify.app/",
+    "user_social_links": [
+        {
+            "name": "Github",
+            "url": " "
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/mdsakibmahmood/"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/mdsakibmahmood"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/mdsakibmahmood/"
+        }
+    ],      
+    "user_skills": [
+        {
+            "skill_name": "HTML",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "CSS",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "JavaScript",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "React",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "NodeJS",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "PHP",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "MySQL",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "WordPress",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "Bootstrap",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "Sass",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "Sketch",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "Photoshop",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "Illustrator",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "Invision",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "After Effects",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "Premiere",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "Adobe XD",
+            "skill_level": "Advanced"
+        },
+        {
+            "skill_name": "Adobe Photoshop",
+            "skill_level": "Advanced"
+        }
+
+    ],   "user_education": [
+        {
+            "education_institution": "University of Dhaka",
+            "education_degree": "Bachelor of Science",
+            "education_field": "Computer Science",
+            "education_start_date": "2019",
+            "education_end_date": "2020",
+            "education_description": "I am currently working as a Frontend Web Developer at <a href=\"https://www.linkedin.com/in/mdsakibmahmood/\">LinkedIn</a>."
+        }
+    ],    "user_experience": [
+        {
+            "experience_institution": "University of Dhaka",
+            "experience_degree": "Bachelor of Science",
+            "experience_field": "Computer Science",
+            "experience_start_date": "2019",
+            "experience_end_date": "2020",
+            "experience_description": "I am currently working as a Frontend Web Developer at <a href=\"https://www.linkedin.com/in/mdsakibmahmood/\">LinkedIn</a>."
+        }
+    ],    "user_projects": [
+        {
+            "project_name": "Portfolio Website",
+            "project_description": "This is my portfolio website. I have created this website using HTML, CSS, JavaScript, React, NodeJS, PHP, MySQL, WordPress, Bootstrap, Sass, Sketch, Photoshop, Illustrator, Invision, After Effects, Premiere, Adobe XD, and Adobe Photoshop.",
+            "project_url": "https://sakibmahmood019.netlify.app/",
+            "project_image": "https://i.ibb.co/qxQQQQQ/Screenshot-2020-01-01-at-11-57-41-PM.png"
+        },
+        {
+            "project_name": "Portfolio Website",
+            "project_description": "This is my portfolio website. I have created this website using HTML, CSS, JavaScript, React, NodeJS, PHP, MySQL, WordPress, Bootstrap, Sass, Sketch, Photoshop, Illustrator, Invision, After Effects, Premiere, Adobe XD, and Adobe Photoshop.",
+            "project_url": "https://sakibmahmood019.netlify.app/",
+            "project_image": "https://i.ibb.co/qxQQQQQ/Screenshot-2020-01-01-at-11-57-41-PM.png"
+        },
+        {
+            "project_name": "Portfolio Website",
+            "project_description": "This is my portfolio website. I have created this website using HTML, CSS, JavaScript, React, NodeJS, PHP, MySQL, WordPress, Bootstrap, Sass, Sketch, Photoshop, Illustrator, Invision, After Effects, Premiere, Adobe XD, and Adobe Photoshop.",
+            "project_url": "https://sakibmahmood019.netlify.app/",
+            "project_image": "https://i.ibb.co/qxQQQQQ/Screenshot-2020-01-01-at-11-57-41-PM.png"
+        }
+    ],    "user_awards": [
+        {
+            "award_name": "Award Name",
+            "award_description": "Award Description",
+            "award_date": "2020"
+        }
+    ] 
 }
+
+        
+
