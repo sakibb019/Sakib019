@@ -1,7 +1,7 @@
 {
-    "name": "Mohammad Sakib Mahmood",
+    "name": "Mohammad Sakib Mahmood",``
     "version": "2.2.2",
-    "author": "Mohammad Sakib Mahmood<sakibmahmood485@gmail.com> (    ",
+    "author": "Mohammad Sakib Mahmood<sakibmahmood485@gmail.com> ",
     "description": "A personal card for the web", 
     "main": "card.js",
     "bin": "./card.js",
